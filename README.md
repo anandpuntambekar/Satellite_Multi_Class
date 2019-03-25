@@ -6,7 +6,7 @@ The results are analysed and model explored to help explain the process followed
 
 ## Installing / Getting started
 
-You need to use fastai 0.7; please follow the installation instructions[here](https://forums.fast.ai/t/fastai-v0-install-issues-thread/24652)  .
+You need to use fastai 0.7; please follow the installation instructions [here](https://forums.fast.ai/t/fastai-v0-install-issues-thread/24652)  .
 
 
 ## Developing
