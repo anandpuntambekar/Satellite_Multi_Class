@@ -1,5 +1,5 @@
 # Multi Class Image Classification - Satellite Images &middot;
-> The program follows a similar structure as one demonstrated in fastai courses and classifies image features associated to  
+> The program follows a similar structure as one demonstrated in fastai courses.
 
 The Project provides a step by step method to classify images features categories and goes deeper into understanding parameters such as learning rate, CNN (Convolution Neural Network) Architecture and transfer learning  to improve the accuracy of the models developed. The project is an attempt to the Kaggle competition for planet-understanding-the-amazon-from-space.
 The results are analysed and model explored to help explain the process followed in the project
